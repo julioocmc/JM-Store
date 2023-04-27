@@ -14,3 +14,6 @@ Puedes ver el proyecto e interactuar con él desde la página: https://main--spa
 
 ### Contribución
 Si quieres contribuir a este proyecto, puedes crear un pull request o abrir un issue.
+  
+## Gif Ejemplificando el funcionamiento del proceso del proyecto.
+![proyecto-final](https://user-images.githubusercontent.com/112848668/234727672-cb0f4b7b-42f9-4423-a78d-9f77267dfed8.gif)
